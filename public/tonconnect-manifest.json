@@ -1,0 +1,26 @@
+{
+    "url": "https://your-app-domain.com",
+    "name": "Your App Name",
+    "iconUrl": "/app-icon.png",
+    "termsOfUseUrl": "/terms",
+    "privacyPolicyUrl": "/privacy",
+    "description": "Your app description",
+    "version": "1.0.0",
+    "features": [
+      "SendTransaction"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "permissions": [
+      "mainnet",
+      "testnet",
+      "account_interaction"
+    ],
+    "developer": {
+      "name": "Your Name",
+      "email": "your.email@example.com",
+      "website": "https://your-website.com"
+    }
+  }
+  
